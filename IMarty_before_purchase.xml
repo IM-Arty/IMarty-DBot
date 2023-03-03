@@ -479,14 +479,14 @@
                                                                                         </value>
                                                                                         <next>
                                                                                           <block type="purchase" id="lvNT2;V$-Bh5/P0=;|Bt">
-                                                                                            <field name="PURCHASE_LIST">MULTDOWN</field>
+                                                                                            <field name="PURCHASE_LIST">CALL</field>
                                                                                           </block>
                                                                                         </next>
                                                                                       </block>
                                                                                     </statement>
                                                                                     <statement name="ELSE">
                                                                                       <block type="purchase" id="_,/o`ECDkcP8EEk8e.p^">
-                                                                                        <field name="PURCHASE_LIST">MULTUP</field>
+                                                                                        <field name="PURCHASE_LIST">CALL</field>
                                                                                       </block>
                                                                                     </statement>
                                                                                   </block>
@@ -621,14 +621,14 @@
                                                                                             </value>
                                                                                             <next>
                                                                                               <block type="purchase" id="l#.JN5GmAz$NACN0V^Ak">
-                                                                                                <field name="PURCHASE_LIST">MULTUP</field>
+                                                                                                <field name="PURCHASE_LIST">CALL</field>
                                                                                               </block>
                                                                                             </next>
                                                                                           </block>
                                                                                         </statement>
                                                                                         <statement name="ELSE">
                                                                                           <block type="purchase" id="fCJ(UjWT^|-W9{+6vbwG">
-                                                                                            <field name="PURCHASE_LIST">MULTDOWN</field>
+                                                                                            <field name="PURCHASE_LIST">CALL</field>
                                                                                           </block>
                                                                                         </statement>
                                                                                       </block>
